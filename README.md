@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YOU%20MIN%20KIM&fontSize=60&animation=twinkling&fontAlignY=40)
 
-👋 안녕하세요! 김유민입니다.
+## 👋 안녕하세요! 김유민입니다.
 
-🛠Tech Stack🛠
+### 🛠Tech Stack🛠  
 Worked On : C# ASP.NET Android MSSQL  
 Python Flask  
 Currently learning : Spring  
