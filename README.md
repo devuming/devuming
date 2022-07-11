@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**umin910/umin910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+YOUMIN KIM
+👋 안녕하세요! 김유민입니다.
 
-Here are some ideas to get you started:
+🛠Tech Stack🛠
+
+📫 Email : youmny910@naver.com
+💬 Blog : devum.tistory.com
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
