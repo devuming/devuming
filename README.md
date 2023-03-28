@@ -35,7 +35,7 @@
   
 ### Contack Me 👉
 📫 Email : youmny910@naver.com  
-💬 Blog : [devum.tistory.com](devum.tistory.com)
+💬 Blog : [devum.tistory.com](https://devum.tistory.com)
   
 ### About 💻
   [![Umin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devuming&theme=onedark&show_icons=true&hide_border=true)](https://github.com/devuming/github-readme-stats) [![Solved.ac youm_dev](http://mazassumnida.wtf/api/v2/generate_badge?boj=youm_dev)](https://solved.ac/youm_dev)
